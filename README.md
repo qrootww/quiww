@@ -2,6 +2,7 @@
 - 👀 I’m interested in HTML, CSS, Linux.
 - 💞️ I’m looking to collaborate on any bash program.
 - 📫 How to reach me:
-   - Mail: [thatqui@proton.me](mailto:thatqui@proton.me)
-   - XMPP: [qui@yax.im](xmpp:qui@yax.im)
+   - Discord: @thatqui
+   - Matrix: @qui:vern.cc
+   - XMPP: @qui@xmpp.quitaxd.online
 - 😄 Pronouns: he/him
