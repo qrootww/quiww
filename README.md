@@ -1,8 +1,8 @@
-- 👋 Hi, I’m [@thatqui](https://github.com/thatqui), I like programming, history, geography etc.
+# qui
+
+- Hello, I am [@thatqui](https://github.com/thatqui)!
 - 🇹🇷 I'm from Turkiye!
-- 👀 I’m interested in HTML, CSS, Linux.
 - 📫 How to reach me?
-   - Discord: `@thatqui` (i am most active in discord.)
-   - Matrix: `@qui:vern.cc`
-   - XMPP: `@qui@xmpp.quitaxd.online`
+   - Discord: `@_thatqui` (i am most active in discord.)
+   - Revolt: `@qui#4883`
 - 😄 Pronouns: he/him | other pronouns are not accepted
