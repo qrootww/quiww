@@ -1,6 +1,6 @@
 # qui
 
-- Hello, I am [@thatqui](https://github.com/thatqui)!
+- Hello, I am [@quithedev](https://github.com/quithedev)!
 - 🇹🇷 I'm from Turkiye!
 - 📫 How to reach me?
    - Discord: `@_thatqui` (i am most active in discord.)
